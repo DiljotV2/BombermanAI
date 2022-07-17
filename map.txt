@@ -1,0 +1,32 @@
+# This is a comment and is ignored
+# First specify the width x height values
+25 25
+# Second specify the start and target box indexes
+600 10
+# Now specify each row of column values
+. . m . . . . . . . . . . . . . . . m . . . . . .
+. # m # . # . # . # . # . # . # . # m # . # . # .
+. . . . . . . . . m . m m m . . . m . . m m . . .
+. # m # . # . # . # . # . # m # . # . # . # m # m
+. . . . m m m . . m . . . . m . . . . . m . . . .
+. # m # . # m # . # m # . # . # . # . # . # . # m
+m m m . . . . m m . . . . m . . . . . m . . . . .
+. # . # . # m # . # . # . # m # . # . # . # m # m
+. . . . . . m . . . . . . . m . . . m . m . . m .
+. # . # . # . # . # . # . # . # . # . # . # m # .
+. . . . . m . . . m . . . m . . . . m m . m . . .
+. # . # m # . # . # . # . # . # . # . # . # . # .
+m m m . . . . . m . . . . . m m . . m . . m . . .
+. # . # . # . # . # . # . # m # . # . # . # . # .
+. . . . . m m . . m m . m . . . . m . m . m . . .
+. # . # . # . # . # . # . # . # . # . # m # m # .
+. . m m . . m m . . . m . . . . . . . . . . m . .
+. # . # . # . # . # m # . # . # . # . # . # m # .
+. . m . m . m . m . m . . . . . . . . . . m m . .
+. # . # . # . # . # . # . # . # . # . # . # . # .
+. . . . . . . . m . m . . . . m m m . . m . . . .
+. # . # m # . # . # . # . # m # . # . # m # . # .
+. . m . m . . . . . . . . m m . . m . . . . . . .
+. # m # m # . # . # . # m # . # m # . # m # . # .
+. . . . . m . . . m . . . . m . . m . m . . m . .
+# Note the number of rows and column values match
